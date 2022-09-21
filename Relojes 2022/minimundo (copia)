@@ -1,0 +1,139 @@
+DESCRIPCION DEL MINIMUNDO 
+
+COMPONENTES BASICOS:
+
+# un reloj se compone de la caja , la cual usualmente es de metal(Acero, oro, titanio o platino) y contiene el movimiento y todos los componentes del reloj.
+
+# el reverso de caja forma parte de la caja: 
+
+puede ser encajado o atornillado.
+
+tipo cerrado : hecho de un material solido.
+
+tipo de exhibicion : usualmente son de mineral o safiro(transparentes)
+
+# grosor del reloj,medida vertical en milimetros.
+
+
+# agarradera,forma parte de la caja,tiene un ancho determinado ,puede ser tipo personalizable con distintas correas o brazaletes, o de tipo fijas ,con un brazalete determinado. 
+
+
+# correas, se adjuntan a la agarradera , materiales : piel,nylon, caucho o textil.contiene cierres de tipo : 
+* hebilla desplegable(lujo) 
+* hebilla de alfiler(comun)
+
+
+# brazaletes,tambien se adjuntan a la agarradera, materiales : 
+acero, metal chapado, titanio, cerámica, metales preciosos.
+contiene broches de tipo : de doblar o de presion(mas comunes).
+*se compone de un numero enlaces,pueden agregarse mas o quitarse.
+*pueden contener extensiones: 
+micro-ajustes. 
+extension para buceo.
+ 
+#agarradera-a-agarradera : determina el largo(vertical) del reloj.
+
+# cristal del reloj , materiales : plexyglass , acrilico , mineral , safiro.
+
+# bisel del reloj , rodea el cristal ,puede incluir marcas o no.
+puede ser rotativo o fijo.
+
+# encaje del bisel , pieza circular que contiene las marcas,
+materiales : plexyglass , acrilico , mineral , safiro.
+
+# corona ,puede ser atornillada o encajada.
+
+# pulsadores , llevan a cabo distintas funciones del reloj : 
+cronografo,calendario perpetuo o fases lunares.
+
+# dial , materiales : esmalte , laca ,  plástico, cerámica o metal.
+
+# agujas : hora, minuto,segundo(puede ubicarse en un dial aparte)
+
+
+# resistencia al agua : presion soportada por la caja(metros) 
+
+# pais de origen del reloj.
+
+
+MECANICA: ( no se si hace falta registrar cada componente del movimiento en la base de datos )
+
+calibre(movimiento) , puede ser de tipo : quartz o mecanico (manual o automatico),pueden ser producidos por terceros o por la propia manufacturera.
+
+reloj puede contener o no hacking,  permite al usuario establecer la hora precisa con la aguja de segundos
+
+
+tipo de escape : comun(horquilla de dos paletas) , co-axial(horquilla de tres paletas). 
+
+# frecuencia : medida de la velocidad de la rueda de equilibrio en latidos u oscilaciones(en relojes mecanicos),
+se expresa en latidos por hora, vibraciones por hora o hertz ( movimiento hacia atras y adelante de la rueda de equilibrio por segundo )
+
+# amplitud : La distancia que recorre el volante durante una media oscilación, se mide en grados.260 y 290 grados para un reloj en perfecto estado
+
+
+
+COMPLICACIONES:
+
+# funcion fecha ,numero del mes( ubicacion en 3 , 6 en punto u otra ubicacion )
+
+# fecha del dia, numero del dia.es agregada a la fecha del mes.
+
+# calendario -> tipo : anual o perpetuo 
+
+# cronografo -> tipo : comun , flyback o doble , reloj lo tiene o no lo tiene.
+
+# telemetro , reloj lo tiene o no lo tiene.
+
+# pulsometro ,reloj lo tiene o no lo tiene.
+
+# taquimetro , reloj lo tiene o no lo tiene.
+
+# dual time , usualmente se muestra en un subdial aparte o un segundo indicador(aguja)(segunda zona horaria)
+
+# GMT ,aguja en formato de 24 hs(segunda zona horaria),usualmente incluye un bisel rotador en formato de 24 hs(zona horaria adicional) o no. 
+
+# hora mundial,incluye bisel con distintas ciudades y una escala de 24 hs.
+
+# tourbillon ,
+
+# repetidor de minuto , tradicionalmente se activa y campanea una vez por hora , cada 15 minutos o cada un minuto.puede contar con un tambor adicional para marcar decimales.
+
+# alarma, 
+
+# fase lunar ,
+
+# reserva de energia, 
+
+# hora saltante,
+
+
+REFINAMIENTO(ACABADO)
+
+# brushing(cepillado) ,se aplica sobre la caja,cepillado de grano o texturizado,brillo sin reflejo
+
+# pulido ,brillo reflejado
+
+# voladura, 
+
+# revestimiento ,puede ser aplicado en el tope del cristal,aunque es mas comun en la parte baja del cristal.tambien puede ser aplicado en ambas partes del cristal.
+
+# dfv , fino revestimiento aplicado a la caja, usualmente es de color negro,puede resistir las rayaduras ,es susceptible al astillado,aunque depende del fabricante.
+
+# diamante como el carbono , tratamiento mas duro para la caja,premium , duradero.
+
+# anglage ,usualmente se encuentra en los puentes,
+
+# perlage ,usualmente se encuentra en el plato principal.
+
+# granulado ,usualmente se encuentra en la superficie del movimiento  circular,lineal o en efecto de rayo de sol.
+
+# olas de ginebra , usualmente se encuentra en la superficie del movimiento, hecha a mano o con un torno,  usualmente se acompaña con un acabado tipo grano.
+
+# guilloché , decoracion parecida a cinta trenzada,usualmente se encuentra en los componentes metalicos,
+
+# azulado , se aplica en tornillos o agujas ,
+
+# grabado , usualmente en el movimiento , reverso de la caja u otra parte del reloj metalica
+
+
+
